@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dadah dunia
+=======
+Hi dunia
+>>>>>>> text
